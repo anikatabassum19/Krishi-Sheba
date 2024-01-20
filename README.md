@@ -16,10 +16,9 @@ Krishi Sheba is a revolutionary smart farming assistant that leverages IoT devic
 
 1. **Hardware Setup:** Install ESP32, DHT11, pH sensor, and soil moisture sensor in your farm according to the provided guidelines.
 
-2. **App Installation:** Download and install the Krishi Sheba app on your smartphone from the [Google Play Store](https://play.google.com/store) or [Apple App Store](https://apps.apple.com).
+2. **App Installation:** Download and install the after extracting the given zip file
 
-3. **Account Creation:** Create an account on the app to start using the features and receive personalized advice.
-
+3. **Account Creation:** No account creation required 
 ## Usage
 
 1. **Sensor Data Monitoring:** Keep track of real-time data such as temperature, humidity, pH level, and soil moisture through the app.
